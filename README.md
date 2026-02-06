@@ -21,4 +21,4 @@ Este repositorio contiene el desarrollo completo del proyecto final de estadíst
 4. **Parte 4:** Series temporales y descomposición estacional.
 
 ## Autor
-- Africa Maria Bermudez Mejias
+Africa Maria Bermudez Mejias
