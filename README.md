@@ -3,7 +3,7 @@
 Este repositorio contiene el desarrollo completo del proyecto final de estadística, dividido en 4 partes: análisis descriptivo, inferencia y modelado, regresión lineal desde cero y series temporales.
 
 ## Contenido
-- `PracticaEstadistica__apellidos_nombre_.ipynb`: notebook principal con todo el trabajo.
+- `PracticaEstadistica_bermudez_africa.ipynb`: notebook principal con todo el trabajo.
 - `chocolate_sales.csv`: dataset usado en las partes 1 y 2.
 
 ## Requisitos
